@@ -1,2 +1,5 @@
 # hello-world
-the start
+
+ Hi!
+ 
+ I am a beginner of data science.
